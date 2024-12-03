@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=171036&fontSize=75&stroke=FF84C6&desc=Frontend%20Developer&descSize=30&descAlign=80&descAlignY=70&descColor=171036" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=171036&fontSize=75&stroke=FF84C6&desc=Frontend%20Developer&descSize=30&descAlign=80&descAlignY=60&descColor=171036" />
 </div>
 
 <!-- <h3 align="center">⚡ Frontend Developer ⚡</h3> -->
