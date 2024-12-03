@@ -51,8 +51,9 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">🌱 Studying 🌱</h3>
-<div align="center">
+<div align="center" justify="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=thanfdml" />&nbsp
 </div>
 
 <br>
