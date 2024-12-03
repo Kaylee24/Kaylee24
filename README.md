@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=171036&fontSize=75&stroke=FF84C6" />
 </div>
 
+<h3 align="center">⚡ Frontend Developer ⚡</h3>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -44,7 +46,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h3 align="center">🌱 Studying 🌱</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
 </div>
