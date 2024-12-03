@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=171036&fontSize=75&stroke=FF84C6 />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=5F85BB&fontSize=75&stroke=FF84C6&desc=Frontend%20Developer&descSize=30&descAlign=74&descAlignY=66 />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=171036&fontSize=75&stroke=FF84C6" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=5F85BB&fontSize=75&stroke=FF84C6&desc=Frontend%20Developer&descSize=30&descAlign=74&descAlignY=66" />
 </div>
 
 <!-- <h3 align="center">⚡ Frontend Developer ⚡</h3> -->
