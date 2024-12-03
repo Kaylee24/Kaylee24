@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--타이틀 부분-->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=171036&fontSize=75&stroke=FF84C6" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFB0DD,100:FF2C97&height=300&section=header&text=Songhee's%20Github&fontColor=FFFFFF&fontSize=72&stroke=FF2C97&strokeWidth=1.5&desc=Frontend%20Developer&descSize=26&descAlign=74&descAlignY=66" />
